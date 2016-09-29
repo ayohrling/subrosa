@@ -17,8 +17,7 @@ setup(
                       "Markdown",
                       "six",
                       "Pygments",
-                      "peewee"]
-
+                      "peewee"],
     classifiers=[
         "Development Status :: 4 - Beta",
         "Environment :: Web Environment",
